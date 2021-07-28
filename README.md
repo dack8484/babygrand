@@ -1,9 +1,11 @@
 # babygrand
 Baby Grand keyboard, designed by me.
 It's a 31-key, alpha-staggered, choc only caseless board. V1 has been tested, V2 is on its way to me. I'll write firmware for V2 when it gets here, sue me.
+
 kle:
 
 ![babygrandkle](https://user-images.githubusercontent.com/55664712/127396753-f90141ba-83c4-42b9-89fb-d9631638a62b.png)
+
 some pics:
 ![photo_2021-07-22_08-27-34](https://user-images.githubusercontent.com/55664712/127390575-40a80c1e-cb9b-4062-9069-d2af6b2e2beb.jpg)
 my pic
