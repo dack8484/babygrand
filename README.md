@@ -8,4 +8,5 @@ my pic
 ottimo's babygrand (thank you ottimo!)
 ![photo_2021-07-28_13-22-46](https://user-images.githubusercontent.com/55664712/127390581-4185c5bf-42b4-4379-8ea1-0de87ba8f0fa.jpg)
 my pic again
+
 To build it, solder some diodes with the black line facing the square pad, then solder some choc switches, then solder a pro micro with the TX pin matching the square pad.
